@@ -35,3 +35,12 @@
 
   Launches the test runner in the interactive watch mode.\
   See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  
+# Libraries used:
+  - React ToolKit Querry - Powerful data fetching and caching tool.
+  - React Router Dom - Routing.
+  - Material UI - Components.
+  - MSW - Mocking Apis.
+  - Jest - Testing Env.
+  - React testing library - Testing UI
+
