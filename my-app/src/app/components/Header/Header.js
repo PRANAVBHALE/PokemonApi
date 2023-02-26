@@ -17,7 +17,7 @@ export default function Header() {
             aria-label="menu"
             sx={{ mr: 2 }}
           >
-           <img src={pokeBall} style={{height:'15px',width:'15px'}} alt="pokeball" />
+           <img src={pokeBall} style={{height:'30px',width:'30px'}} alt="pokeball" />
           </IconButton>
           <Link to={`/`} style={{ textDecoration: "none", color: "white" }}>
             <Typography
