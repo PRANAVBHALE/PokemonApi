@@ -1,3 +1,5 @@
-const App = () => <div>Main page</div>;
+import PokemonList from "../../components/PokemonList/PokemonList";
+
+const App = () => <PokemonList />;
 
 export default App;
