@@ -1,4 +1,5 @@
 import { rest } from "msw";
+import { PokemonDetail } from "./mocks/PokemonDetail.mock";
 import { PokemonList } from "./mocks/PokemonList.mock";
 
 export const handlers = [
